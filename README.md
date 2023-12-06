@@ -1,1 +1,1 @@
-# doubledable_8bit-3digBCD
+# doubledable_8bit-3BCD
