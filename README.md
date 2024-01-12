@@ -1,5 +1,5 @@
 # doubledable_8bit-3BCD
-Implementation of the Double Dabble Algorithm in Verilog to convert a 8 bit binary number to a 3 digit BCD number (12 bits).\
+Implementation of the Double Dabble Algorithm in Verilog to convert a 8 bit binary number to its 3 digit BCD equivalent (12 bits).\
 Also included a general n bit to m digit BCD conversion parameterized module.
 
 ## Algorithm
